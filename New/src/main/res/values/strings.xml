@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ReadingStyle</string>
+    <string name="title_activity_flash">Flash</string>
+
+    <string name="tab_recommend">推荐</string>
+    <string name="tab_explore">发现</string>
+    <string name="tab_myself">我</string>
+    <string name="tab_subscription">站点</string>
+    <string name="Title">标题</string>
+    <string name="middle_head">精彩推荐</string>
+    <string name="middle_head_desc">丰富你的眼见  丰满你的灵魂</string>
+    <string name="top_head">世界说</string>
+    <string name="top_head_desc">看见世界的实时变化</string>
+    <string name="load_more">正在加载更多</string>
+    <string name="recommend_subscription">推荐订阅</string>
+    <string name="recommend_site">推荐站点</string>
+    <string name="search">搜索站点</string>
+    <string name="user">登录账号</string>
+    <string name="sub_list">站点</string>
+    <string name="my_collect">收藏</string>
+    <string name="read_history">历史</string>
+    <string name="clear_cache">清理缓存</string>
+    <string name="share_app">分享应用</string>
+    <string name="simple_reading_simple_self">Simple reading , Simple self</string>
+    <string name="double_close">双击关闭</string>
+    <string name="_162">137</string>
+    <string name="mial">邮箱(使用常用邮箱)</string>
+    <string name="password">密码(最多14位)</string>
+    <string name="register">注册</string>
+    <string name="mixLogin">联合登录</string>
+    <string name="name">昵称(最多10位)</string>
+    <string name="login">登录</string>
+    <string name="hint_account">点击即可修改</string>
+    <string name="logo">精致阅读，简单生活</string>
+    <string name="set_head">修改头像</string>
+    <string name="user_name">名称：</string>
+    <string name="people_des">签名：</string>
+    <string name="setting">Setting</string>
+    <string name="activity">Activity</string>
+    <string name="w">天气预报</string>
+    <string name="city">重庆</string>
+
+</resources>
